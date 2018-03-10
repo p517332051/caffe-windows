@@ -23,6 +23,8 @@ Check out the [project site](http://caffe.berkeleyvision.org) for all the detail
 - [Installation instructions](http://caffe.berkeleyvision.org/installation.html)
 
 and step-by-step examples.
+### add caffe2 layer
+	roialignlayer psroialign upsamplenearst
 
 ## Windows Setup
 **Requirements**: Visual Studio 2013
