@@ -1,0 +1,1 @@
+﻿D:\DeepLearningTools\NugetPackages\OpenCV.2.4.10\build\native\OpenCV.targets(768,5): error : NuGet Error:文件“C:\Users\51733\AppData\Local\NuGet\Cache\OpenCV.overlay-x64_v120_Debug.2.4.10.nupkg”正由另一进程使用，因此该进程无法访问此文件。

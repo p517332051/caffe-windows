@@ -1,0 +1,1 @@
+﻿D:\DeepLearningTools\caffe-master\windows\libcaffe\libcaffe.vcxproj(42,5): error MSB4019: 未找到导入的项目“C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\BuildCustomizations\CUDA 8.0.props”。请确认 <Import> 声明中的路径正确，且磁盘上存在该文件。
